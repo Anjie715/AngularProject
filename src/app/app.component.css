@@ -1,0 +1,69 @@
+/*native html position assignment*/
+/*.container{*/
+  /*position: relative;*/
+  /*border-style: solid;*/
+  /*border-width: 5px;*/
+  /*border-color: green;*/
+  /*width: 510px;*/
+  /*height: 250px;*/
+/*}*/
+/*.nav{*/
+  /*position: absolute;*/
+  /*height: 240px;*/
+  /*left: 0px;*/
+  /*width: 191px;*/
+  /*border-style: solid;*/
+  /*border-width: 5px;*/
+  /*border-color: red;*/
+/*}*/
+/*.section1{*/
+  /*height: 50px;*/
+  /*margin-left: 201px;*/
+  /*border-style: solid;*/
+  /*border-width: 5px;*/
+  /*border-color: yellow;*/
+  /*width: 299px;*/
+/*}*/
+/*.section2{*/
+  /*height: 80px;*/
+  /*margin-left: 201px;*/
+  /*border-style: solid;*/
+  /*border-width: 5px;*/
+  /*border-color: yellow;*/
+  /*width: 299px;*/
+/*}*/
+/*.section3{*/
+  /*height: 90px;*/
+  /*margin-left: 201px;*/
+  /*border-style: solid;*/
+  /*border-width: 5px;*/
+  /*border-color: yellow;*/
+  /*width: 299px;*/
+/*}*/
+
+/*.container{*/
+  /*background: lawngreen none repeat scroll 0 0;*/
+  /*border: 1px solid #d4d4d4;*/
+  /*border-radius: 4px;*/
+  /*font-size: 14px;*/
+  /*height: 500px;*/
+  /*line-height: 50px;*/
+/*}*/
+/*.login-form{*/
+  /*text-align: center;*/
+  /*background: #ffffff none repeat scroll 0 0;*/
+  /*border-radius: 2px;*/
+  /*margin: 10px auto 30px;*/
+  /*max-width: 48%;*/
+  /*padding: 70px 70px 70px 70px;*/
+/*}*/
+/*.btn.btn-success{*/
+  /*width: 100%;*/
+  /*height: 40px;*/
+  /*line-height: 30px;*/
+  /*padding: 0;*/
+  /*font-size: 18px;*/
+/*}*/
+/*.form-control{*/
+  /*background: linen;*/
+/*}*/
